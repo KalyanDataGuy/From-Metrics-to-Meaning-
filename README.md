@@ -1,4 +1,4 @@
-# From-Metrics-to-Meaning 🎯
+# 🎯 6. From-Metrics-to-Meaning 
 Part 6 of Analytical Think Pieces
 
 When Data Stops Speaking — And How to Listen Again  
